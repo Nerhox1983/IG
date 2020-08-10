@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sjcc-a-toh"
+    }
+  },
+  "defaultProject": "sjcc-a-toh",
+  "cli": {
+    "analytics": false
+  }
 }
